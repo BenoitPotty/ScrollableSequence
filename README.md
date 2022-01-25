@@ -36,7 +36,7 @@ In order to be responsive, it is required to encapsulate the `<canvas>` HTMLElem
 
 ``` HTML
 <div id="sequence-container">
-    <canvas id="sequence-canvas" data-framecount="200" data-imagepath="/images/ezgif-frame-{framenumber}.jpg" data-framenumberpading="3"></canvas>
+    <canvas id="sequence-canvas" data-framecount="200" data-imagepath="./images/ezgif-frame-{framenumber}.jpg" data-framenumberpading="3"></canvas>
 </div>
 ```
 
