@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="scrollablesequence.js"></script>
+</head>
+<body>
+  <div id="sequence-container">
+    <canvas id="sequence-canvas" data-framecount="200" data-imagepath="./images/ezgif-frame-{framenumber}.jpg" data-framenumberpading="3"></canvas>
+  </div>
+  <script>
+    new ScrollableSequence("sequence-canvas").init();
+  </script>
+</body>
+</html>

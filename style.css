@@ -1,0 +1,14 @@
+html {
+  height: 100vh;
+}
+
+body {
+  height: 500vh;
+  background: #000;
+}
+
+#sequence-container {
+  position: fixed;
+  width: 50vw;
+  height: 28vw;
+}
