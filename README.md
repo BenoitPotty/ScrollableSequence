@@ -56,3 +56,6 @@ In order to produce the correct effect when scrolling, the `canvas`, or better t
 
 ### Image preload
 To ensure a smooth animation, all images will be preloaded in the browser cach at the initialisation of the script.
+
+### Images source 
+All image are extracted from the free Pexels video [Drone Footage Of A Mountain Landscape With Snow](https://www.pexels.com/video/drone-footage-of-a-mountain-landscape-with-snow-2871918/)
