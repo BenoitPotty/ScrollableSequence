@@ -11,7 +11,7 @@ This script is inspired from the article on [CSS Tricks](https://css-tricks.com/
 ### General
 To produce this effect, the scripts uses a `<canvas>` HTMLElement to draw the images on scroll event. The transition is done using the `requestAnimationFrame` javascript method.
 
-All the images of the animated sequence should be stored in a directory, and named buy there index, without number padding, and in a continuous sequence. Example : 
+All the images of the animated sequence should be stored in a directory, and named buy there index, without or without number padding, and in a continuous sequence. Example : 
 
 ```
 1.jpg
