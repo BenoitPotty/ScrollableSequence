@@ -3,12 +3,21 @@ html {
 }
 
 body {
-  height: 500vh;
   background: #000;
 }
 
+
+div.text {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 10rem;
+  color: white;
+  font-size: 2rem;
+}
+
+
 #sequence-container {
-  position: fixed;
   width: 50vw;
   height: 28vw;
+  margin: auto;
 }
